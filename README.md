@@ -1,6 +1,7 @@
 
 
-![logo](https://wallpapercave.com/wp/wp8725091.jpg)
+![logo](https://i.imgur.com/C0qGtoz.gif)
+
 <h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from Bangladesh</h3>
 
