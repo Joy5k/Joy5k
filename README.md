@@ -4,6 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from Bangladesh</h3>
+<h3 align="center">Email: mmehedihasanjoyv@gmail.com || Phone: +880 1601588531</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
